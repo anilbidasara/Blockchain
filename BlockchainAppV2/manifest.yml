@@ -1,0 +1,5 @@
+---
+applications:
+- name: BlockchainApp
+  memory: 128m
+  instances: 1

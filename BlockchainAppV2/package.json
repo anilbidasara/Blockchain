@@ -1,0 +1,21 @@
+{
+  "name": "Blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain service layer for SAP POC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.2",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "helmet": "^3.12.1",
+    "hpp": "^0.2.2",
+    "node-rsa": "^0.4.2",
+    "path": "^0.12.7",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {}
+}
